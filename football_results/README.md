@@ -16,7 +16,7 @@ A final score has this dictionary structure -
 We'd also like to get a list of results for a list of final scores.
 
 ```python
-    ["Home win", ...]
+    ["Home win", ...]s
 ```
 
 ## Running the tests
